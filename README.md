@@ -1,6 +1,6 @@
 # **Cybersecurity Portfolio**  
 
-Welcome to my cybersecurity portfolio! This repository showcases my learning journey, technical projects, and hands-on experiences as I build my expertise in cybersecurity.  
+Welcome to my cybersecurity portfolio! This repository showcases my learning journey, technical projects, and hands on experiences as I build my expertise in cybersecurity.  
 
 ---
 
